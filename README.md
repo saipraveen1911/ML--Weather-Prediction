@@ -156,5 +156,10 @@ for target in targets:
 
 ## Output:
 
+<img width="1385" height="627" alt="ML EXP - 10 (1)" src="https://github.com/user-attachments/assets/879f4c17-d68b-4209-a98b-cb17f0185d2b" />
+
+<img width="1396" height="516" alt="ML EXP - 10 (2)" src="https://github.com/user-attachments/assets/6fa0b450-1653-4e6b-bc91-a4dd1fc19f1c" />
+
+<img width="1402" height="630" alt="ML EXP - 10 (3)" src="https://github.com/user-attachments/assets/d0091c82-79fa-42b5-a5ad-e7002ca94916" />
 
 ## Result:
