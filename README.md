@@ -11,10 +11,14 @@ To write a program to predict daily temperature , PM2.5 pollution level and Ener
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+
+1. Load and preprocess the dataset by cleaning, sorting, and handling missing values.
+
+2.Perform feature engineering by creating time-based and lag features.
+
+3.Train Random Forest models and evaluate their performance using metrics.
+
+4.Visualize results and predict future values using the latest data.
 
 ## Program:
 ```
@@ -163,3 +167,5 @@ for target in targets:
 <img width="1402" height="630" alt="ML EXP - 10 (3)" src="https://github.com/user-attachments/assets/d0091c82-79fa-42b5-a5ad-e7002ca94916" />
 
 ## Result:
+
+The Random Forest model successfully predicted temperature, PM2.5 pollution, and solar radiation using weather sensor data with good accuracy. The system also generated next-step predictions and visual graphs comparing actual vs predicted values and showing feature importance.
